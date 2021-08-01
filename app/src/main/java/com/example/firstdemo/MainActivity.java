@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 //        Step One: Show how to output Log from Logcat;
-        Log.d(TAG, "onCreate: " + "This is the first LOG");
+        Log.d("onCreate: " ,"This is the first LOG");
 
 
 //        Step Two: Show how to add listener to a button;
